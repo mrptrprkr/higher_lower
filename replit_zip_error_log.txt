@@ -1,0 +1,5 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/pypoetry/virtualenvs/python-template-C2btNCYJ-py3.10/bin/python","time":"2024-07-22T11:21:03Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/pypoetry/virtualenvs/python-template-C2btNCYJ-py3.10/bin/python3","time":"2024-07-22T11:21:03Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/pypoetry/virtualenvs/python-template-C2btNCYJ-py3.10/bin/python3.10","time":"2024-07-22T11:21:03Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/python-3.10","time":"2024-07-22T11:21:09Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2024-07-22T11:21:09Z"}
